@@ -88,7 +88,3 @@ button {
 .details .info .currency {
   display: flex;
 }
-.details .info .common-language {
-  display: flex;
-  flex-direction: column;
-}
