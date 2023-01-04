@@ -89,4 +89,5 @@ button {
 }
 .details .info .common-language {
   display: flex;
+  flex-direction: column;
 }
