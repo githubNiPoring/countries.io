@@ -27,6 +27,7 @@ main {
   background-color: var(--grayish-blue);
   height: auto;
   border-radius: 5px;
+  max-width: 357px;
   padding: 20px;
 }
 .form {
